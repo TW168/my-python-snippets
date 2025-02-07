@@ -28,6 +28,15 @@ This script **connects to a MySQL database**, extracts **filtered and grouped sh
 With a simple line chart
 
 ### 6️⃣ get_ticker_data.ipynb
+**Description:**
+A Python function to fetch historical market data and financial statements for a given stock using the Yahoo Finance API (yfinance).
+
+📌 Features
+✅ Retrieve historical market data (Open, High, Low, Close, Volume)
+✅ Get balance sheets for a stock
+✅ Fetch quarterly income statements
+✅ Uses logging for debugging and error handling
+✅ Handles invalid tickers gracefully
 
 
 ---
