@@ -31,12 +31,12 @@ With a simple line chart
 **Description:**
 A Python function to fetch historical market data and financial statements for a given stock using the Yahoo Finance API (yfinance).
 
-📌 Features
-✅ Retrieve historical market data (Open, High, Low, Close, Volume)
-✅ Get balance sheets for a stock
-✅ Fetch quarterly income statements
-✅ Uses logging for debugging and error handling
-✅ Handles invalid tickers gracefully
+📌 Features  
+  ✅ Retrieve historical market data (Open, High, Low, Close, Volume)
+  ✅ Get balance sheets for a stock
+  ✅ Fetch quarterly income statements
+  ✅ Uses logging for debugging and error handling
+  ✅ Handles invalid tickers gracefully
 
 
 ---
