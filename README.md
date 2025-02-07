@@ -19,11 +19,16 @@ This notebook provides a MySQL connection utility using SQLAlchemy and Pandas. I
 A script to track daily changes in warehouse operations, providing insights into stock movements and operational trends.
 
 ### 4️⃣ read_silo.ipynb
+**Description:** 
 This script reads a CSV file using **pandas** and performs basic data cleaning by removing single quotes (`'`) from all string values in the DataFrame. The cleaned data is then displayed using `.head()`.
 
 ### 5️⃣ extract_shipment_info.ipynb
+**Description:** 
 This script **connects to a MySQL database**, extracts **filtered and grouped shipment records**, and **exports the cleaned data to CSV files**. The extracted data is useful for tracking **freight amounts, shipment weight, and scheduled deliveries**.
 With a simple line chart
+
+### 6️⃣ get_ticker_data.ipynb
+
 
 ---
 
